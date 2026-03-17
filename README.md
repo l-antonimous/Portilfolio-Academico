@@ -9,12 +9,16 @@ O objetivo deste espaço é demonstrar minha capacidade de planejamento, modelag
 Aqui você encontrará arquivos nos formatos `.pdf` e `.docx` organizados pelos seguintes temas:
 
 ### 📚 Disciplinas e Fundamentos
-* **[Nome da Matéria 1]**: (Ex: Modelagem de Banco de Dados) - Breve descrição do PDF, ex: Diagrama Entidade-Relacionamento de um e-commerce.
-* **[Nome da Matéria 2]**: (Ex: Engenharia de Software) - Documento de Levantamento de Requisitos.
+* **[Linguagem Orientada a Objetos]**: - Objetivo: Desenvolver um sistema simples de gerenciamento bancário utilizando a linguagem de programação Java. 
+* **[Algoritmos e Programação Estruturada]**:  - Objetivo: Desenvolver e validar dois algoritmos fundamentais de lógica de programação utilizando a ferramenta online Portugol WebStudio.
+* **[Desenvolvimento Web]**:  - Objetivo: Desenvolver uma aplicação web prática, cujo objetivo é identificar o signo zodiacal de um usuário com base em sua data de nascimento.
+* **[Diagrama de Caso de Uso]**:  - Objetivo: Desenvolver um diagrama de casos de uso para um sistema de bancário, seguindo certas especificações.
+* **[Linguagem JavaScript]**:  - Objetivo: Documentar o processo de criação de um formulário HTML simples e a implementação de um script para a validação em tempo real de um campo de e-mail.}
+* **[Projeto de Software]**:  - Objetivo: Utilizar a metodologia Ágil Scrum para o desenvolvimento de um alpicativo.
+* **[Projeto Integrado Síntese ]**:  - Objetivo:  O trabalho envolve a criação de um quadro Scrum para organizar tarefas, a realização de um teste de usabilidade em um sistema web e a proposição de melhorias para infraestrutura de redes e equipamentos computacionais.
+* **[Sistemas Operacionais]**:  - Objetivo:  Documentar a criação e configuração de uma máquina virtual Ubuntu utilizando o software VirtualBox, bem como a manipulação de arquivos e diretórios em ambiente GNU/Linux via terminal.
+* **[Computação Em Nuvem]**:  - Objetivo: Documentar o processo de configuração do ambiente de simulação CloudSim na IDE Apache NetBeans e analisar a execução do primeiro cenário de teste), visando compreender os componentes fundamentais e o fluxo básico de uma simulação. 
 
-### 🚀 Projetos Aplicados e Documentações de Sistemas
-* **Sistema de HelpDesk**: Documentação, fluxogramas e manuais de uso desenvolvidos para o sistema de chamados.
-* **Sistema de Gestão (SGT 2.0)**: Especificações técnicas, casos de uso e regras de negócio do aplicativo de gerenciamento de unidades.
 
 ## 🛠️ Habilidades Demonstradas
 * Levantamento e Análise de Requisitos
